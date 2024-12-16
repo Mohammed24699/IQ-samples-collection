@@ -3,7 +3,8 @@
 This project demonstrates the collection of IQ samples using GNU Radio, leveraging the USRP (Universal Software Radio Peripheral) hardware for signal reception and transmission. The flowgraph is designed to capture and visualize signals with a specific configuration.
 
 ## Flowgraph Overview
-flowgarph.png
+https://github.com/Mohammed24699/IQ-samples-collection/blob/main/flowgarph.png
+
 The flowgraph consists of the following main components:
 1. **UHD: USRP Source** - Configured to receive IQ samples from a specified frequency and bandwidth.
 2. **QT GUI Sink** - Displays the real-time FFT plot of the received signal.

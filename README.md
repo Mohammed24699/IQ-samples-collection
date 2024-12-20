@@ -1,6 +1,6 @@
 # SigMF Converter
 ## Overview
-This project demonstrates the collection of IQ samples in .dat format using GNU Radio, leveraging the USRP (Universal Software Radio Peripheral) hardware for signal reception and transmission and covert the .dat format IQ samples to sigmMF format using python script . 
+This project demonstrates the collection of IQ samples in .dat format using GNU Radio, leveraging the USRP (Universal Software Radio Peripheral) hardware for signal reception and transmission. 
 
 ## GNU Radio IQ Sample Collection
 ## Flowgraph Overview

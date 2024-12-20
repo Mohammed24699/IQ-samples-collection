@@ -208,4 +208,4 @@ Below is an example of the base metadata structure used in the script:
 ---
 
 ## License
-This project is licensed under the MIT License. Feel free to modify and adapt it to your needs.
+This project is licensed under the *** License. Feel free to modify and adapt it to your needs.

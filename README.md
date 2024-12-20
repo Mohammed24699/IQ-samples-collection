@@ -16,9 +16,9 @@ The flowgraph consists of the following main components:
 ### Key Parameters
 
 - **Sampling Rate (`samp_rate`)**: 23.04 MSps
-- **Center Frequency (`center_freq`)**: 2.5 GHz
+- **Center Frequency (`center_freq`)**: 3.5 GHz
 - **Bandwidth**: 20 MHz
-- **Gain (Rx)**: 50
+- **Gain (Rx)**: 60
 - **Gain (Tx)**: 40
 - **Antenna**: TX/RX
 

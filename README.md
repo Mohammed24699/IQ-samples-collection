@@ -45,8 +45,10 @@ To use this flowgraph, ensure the following are installed on your system:
    -  Capture IQ samples by additional machine equipped with GNU Radio software connected with a USRP device as a file sink, enabling the storage of IQ samples in the .dat format.
 
 ## setup overview
-Testbed setup illustration  
+Wired Testbed setup illustration  
    -  ![Wired setup](https://github.com/Mohammed24699/IQ-samples-collection/blob/main/wired%20setup.png)
+
+OTA Testbed setup illustration  
    -  ![Antenna setup](https://github.com/Mohammed24699/IQ-samples-collection/blob/main/antenna%20setup.png)
 
 

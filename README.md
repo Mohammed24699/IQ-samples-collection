@@ -5,7 +5,7 @@ This project demonstrates the collection of IQ samples in .dat format using GNU 
 ## GNU Radio IQ Sample Collection
 ## Flowgraph Overview
 The flowgraph is designed to capture and visualize signals with a specific configuration.
-![GNU flowgarph](https://github.com/Mohammed24699/IQ-samples-collection/blob/main/flowgarph.png)
+![GNU flowgarph](https://github.com/Mohammed24699/IQ-samples-collection/blob/main/flowgraph%20picture.png?raw=true)
 
 
 The flowgraph consists of the following main components:

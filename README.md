@@ -6,7 +6,7 @@ This project demonstrates the collection of IQ samples in .dat format using GNU 
 ## Flowgraph Overview
 The flowgraph is designed to capture and visualize signals with a specific configuration.
 ![GNU flowgarph](https://github.com/Mohammed24699/IQ-samples-collection/blob/main/flowgraph%20picture.png?raw=true)
-
+![Fr Settings](https://github.com/Mohammed24699/IQ-samples-collection/blob/main/RF%20settings.png?raw=true)
 
 The flowgraph consists of the following main components:
 1. **UHD: USRP Source** - Configured to receive IQ samples from a specified frequency and bandwidth.

@@ -4,7 +4,7 @@ This project demonstrates the collection of IQ samples in .dat format using GNU 
 
 ## GNU Radio IQ Sample Collection
 ## Flowgraph Overview
-The flowgraph is designed to capture and visualize signals with a specific configuration.
+The flowgraph is designed to capture and visualize real time signals in 3.5 GHz Frequency.
 ![GNU flowgarph](https://github.com/Mohammed24699/IQ-samples-collection/blob/main/flowgraph%20picture.png?raw=true)
 ![Fr Settings](https://github.com/Mohammed24699/IQ-samples-collection/blob/main/RF%20settings.png?raw=true)
 

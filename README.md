@@ -1,4 +1,4 @@
-# SigMF Converter
+# IQ samples Collection
 ## Overview
 This project demonstrates the collection of IQ samples in .dat format using GNU Radio, leveraging the USRP (Universal Software Radio Peripheral) hardware for signal reception and transmission. 
 
